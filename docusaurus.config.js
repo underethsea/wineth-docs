@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ETH',
+  title: 'WW',
   tagline: 'WIN WIN',
-  url: 'https://ethwindocs.netlify.app/',
+  url: 'https://winwindocs.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'ETHWIN',
+        title: 'WINWIN',
         logo: {
           alt: 'My Site Logo',
           src: 'img/poolerson.png',
@@ -86,11 +86,15 @@ const config = {
             items: [
               {
                 label: 'Primary',
-                href: 'https://steth.win',
+                href: 'https://winwin.org',
               },
               {
-                label: 'PT Community',
-                href: 'https://community.pooltogether.com/pools/mainnet/0x2758b8d894b08342f0d00ac5f9466fdc795e4618/home',
+                label: 'PoolTime',
+                href: 'https://pooltime.app/',
+              },
+              {
+                label: 'Cabana',
+                href: 'https://cabana.fi',
               },
             ],
           },
@@ -104,7 +108,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/pooltogether',
               },
             ],
           },
@@ -118,7 +122,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.io/underethsea/ethwin-app',
+                href: 'https://github.com/ShivanshDengla/winwin',
               },
             ],
           },

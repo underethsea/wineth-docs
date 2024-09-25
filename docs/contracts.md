@@ -5,27 +5,19 @@ sidebar_position: 8
 
 # Contracts
 
-PoolTogether V3 contracts from the official PoolTogether factory.  
+PoolTogether V5 contracts
 
 All contracts audited and verified. 
 
 
-## ETHEREUM MAINNET
+## OPTIMISM MAINNET
 Contract | Address
 --- | ---
-STETH TOKEN | [0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84](https://etherscan.io/address/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84)
-ETHWIN TOKEN | [0x987a99Edba69D6F19d2dA57a4f3A3B030a714122](https://etherscan.io/address/0x987a99Edba69D6F19d2dA57a4f3A3B030a714122)
-SPETHWIN TOKEN | [0xD5f60154BEf3564EbFBe9bB236595f0da548a742](https://etherscan.io/address/0xD5f60154BEf3564EbFBe9bB236595f0da548a742)
-PRIZEPOOL | [0x2758b8d894b08342f0d00ac5f9466fdc795e4618](https://etherscan.io/address/0x2758b8d894b08342f0d00ac5f9466fdc795e4618)
-PRIZESTRATEGY | [0xdef81ee763a8971283f12294e07d17df6658dbe5](https://etherscan.io/address/0xdef81ee763a8971283f12294e07d17df6658dbe5)
-RNG | [0x0dca49d777fd938ee476d400d0b477222bd10aa9](https://etherscan.io/address/0x0dca49d777fd938ee476d400d0b477222bd10aa9)
+RngWitnet | [0x3d2Ef6C091f7CB69f06Ec3117F36A28BC596aa7B](https://optimistic.etherscan.io/address/0x3d2Ef6C091f7CB69f06Ec3117F36A28BC596aa7B)
+TwabController | [0xCB0672dE558Ad8F122C0E081f0D35480aB3be167](https://optimistic.etherscan.io/address/0xCB0672dE558Ad8F122C0E081f0D35480aB3be167)
+TwabRewards | [0x90D383dEA4dcE52D3e5D3C93dE75eF36da3Ea9Ea](https://optimistic.etherscan.io/address/0x90D383dEA4dcE52D3e5D3C93dE75eF36da3Ea9Ea)
+TpdaLiquidationRouter | [0x7766b5E6839a1a218Fc861b0810C504490876136](https://optimistic.etherscan.io/address/0x7766b5E6839a1a218Fc861b0810C504490876136)
+PrizePool | [0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55](https://optimistic.etherscan.io/address/0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55)
+Claimer | [0x220C9398b0Ee07472bF8906e44574Cb9FE3B8D90](https://optimistic.etherscan.io/address/0x220C9398b0Ee07472bF8906e44574Cb9FE3B8D90)
+DrawManager | [0x7eED7444dE862c4F79c5820ff867FA3A82641857](https://optimistic.etherscan.io/address/0x7eED7444dE862c4F79c5820ff867FA3A82641857)
     
-## GOERLI TESTNET
-Contract | Address
---- | ---
-STETH TOKEN | [0x1643E812aE58766192Cf7D2Cf9567dF2C37e9B7F](https://goerli.etherscan.io/address/0x1643E812aE58766192Cf7D2Cf9567dF2C37e9B7F)
-ETHWIN TOKEN | [0x0dD98DC0514D0659244F76118D4a31e815016043](https://goerli.etherscan.io/address/0x0dD98DC0514D0659244F76118D4a31e815016043)
-SPETHWIN TOKEN | [0x1EaeFed482A09B7e1A3d6281FdE9e7Aabf42D1F2](https://goerli.etherscan.io/address/0x1EaeFed482A09B7e1A3d6281FdE9e7Aabf42D1F2)
-PRIZEPOOL | [0x6174783F6196a325350bF8E3C897DE00ab8E2186](https://goerli.etherscan.io/address/0x6174783F6196a325350bF8E3C897DE00ab8E2186)
-PRIZESTRATEGY | [0xF201911C77bdff5D90fdAa5a3ca910DC880A316d](https://goerli.etherscan.io/address/0xF201911C77bdff5D90fdAa5a3ca910DC880A316d)
-
