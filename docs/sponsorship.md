@@ -12,4 +12,6 @@ Sponsors are depositors who support the cause but are not eligible to win.  Nolo
 - Sponsors contributing passively to a good cause
 - Sponsors withdraw anytime, #noloss
 
+Contact us on discord for more information to become a sponsor
+
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 
 
-# The power of ETH
+# The Optimistic power of ETH
 
 ## Everyone wins
 
@@ -22,7 +22,7 @@ It's not a lottery, you save and you win, and nobody loses.
 
 USDC is deposited into Aave which generates yield from lending to borrowers. This yield is contributed to the PoolTogether prize pool. The prize pool creates winners every day. 
 
-1/3 of the yield generates is contributed to a good cause. 
+1/3 of the yield generated is contributed to a good cause. 
 
 
 

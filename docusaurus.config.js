@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'WW',
-  tagline: 'WIN WIN',
-  url: 'https://winwindocs.vercel.app/',
+  tagline: 'winETH',
+  url: 'https://docs.wineth.org',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'underethsea', // Usually your GitHub org/user name.
-  projectName: 'ETHWIN', // Usually your repo name.
+  projectName: 'winETH', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'WINWIN',
+        title: 'winETH',
         logo: {
           alt: 'My Site Logo',
           src: 'img/poolerson.png',
@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Primary',
-                href: 'https://winwin.org',
+                href: 'https://wineth.org',
               },
               {
                 label: 'PoolTime',
