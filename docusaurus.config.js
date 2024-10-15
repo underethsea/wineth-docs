@@ -61,7 +61,7 @@ const config = {
         title: 'winETH',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/poolerson.png',
+          src: 'img/trophy_logo.png',
         },
         items: [
           {
