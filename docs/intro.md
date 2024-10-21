@@ -6,28 +6,26 @@ sidebar_position: 1
 
 
 
-# The Optimistic power of ETH
+# Save, Win, & Support Public Goods
 
-## Everyone wins
+## Welcome to winETH 👋
+winETH is a charitable prize vault powered by PoolTogether & Aave on Optimism.
 
-This pool showcases the power of Ethereum.  
+It's a Win-Win situation:
+- You have a chance to win WETH prizes in daily draws.  
+- You're already winning by supporting public goods
+- You never lose your principal.
 
-- By depositing you are guaranteed to win by supporting a good cause.  
-- You have a chance to win WETH prizes in every weeks draw.  
-- You don't lose any principal (your original deposit).
+For the first six months (until April 3rd, 2025), depositors earn additional bonus rewards. [Learn more](<insertlink>)
 
-It's not a lottery, you save and you win, and nobody loses. 
+## How does it work?
+USDC is deposited into an Aave market to generate yield from lending to borrowers. This yield is contributed to the PoolTogether prize pool, giving depositors a chance to win. The prize pool automatically distributes prizes every day.
 
-## How it works?
+1/3 of all yield generated through winETH deposits is forwarded to a good cause, picked by depositors. The current beneficiary is Protocol Guild. 
 
-USDC is deposited into Aave which generates yield from lending to borrowers. This yield is contributed to the PoolTogether prize pool. The prize pool creates winners every day. 
+## About PoolTogether
+PoolTogether is a protocol for prize savings, designed to make saving money fun and rewarding. By depositing tokens, anyone gets a chance to win prizes without losing their principle. The more you save, the better your odds of winning. No Loss.
 
-1/3 of the yield generated is contributed to a good cause. 
-
-
-
-
-
-
+The first version of PoolTogether was launched in 2019. Since then, the protocol has awarded millions of dollars in prizes. The latest release is accessible through several apps at [pooltogether.com/interfaces](https://pooltogether.com/interfaces).
 
 
