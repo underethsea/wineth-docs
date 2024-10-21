@@ -6,10 +6,10 @@ sidebar_position: 1
 
 
 
-# Save, Win, & Support Public Goods
+# Welcome
 
 ## Welcome to winETH 👋
-winETH is a charitable prize vault powered by PoolTogether & Aave on Optimism.
+winETH is a charitable prize vault powered by PoolTogether & Aave on Optimism. 
 
 It's a Win-Win situation:
 - You have a chance to win WETH prizes in daily draws.  
