@@ -3,11 +3,9 @@ sidebar_position: 8
 ---
 
 
-# Contracts
+# Contract Addresses
 
-PoolTogether V5 contracts
-
-All contracts audited and verified. 
+winETH.org uses the PoolTogether V5 smart contracts. All contracts are audited and verified. You can view all audit reports [here](https://docs.pooltogether.com/security/audits).
 
 
 ## OPTIMISM MAINNET
@@ -20,4 +18,5 @@ TpdaLiquidationRouter | [0x7766b5E6839a1a218Fc861b0810C504490876136](https://opt
 PrizePool | [0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55](https://optimistic.etherscan.io/address/0xF35fE10ffd0a9672d0095c435fd8767A7fe29B55)
 Claimer | [0x220C9398b0Ee07472bF8906e44574Cb9FE3B8D90](https://optimistic.etherscan.io/address/0x220C9398b0Ee07472bF8906e44574Cb9FE3B8D90)
 DrawManager | [0x7eED7444dE862c4F79c5820ff867FA3A82641857](https://optimistic.etherscan.io/address/0x7eED7444dE862c4F79c5820ff867FA3A82641857)
-    
+
+Learn more about the PoolTogether smart contracts: [PoolTogether V5 Contract Reference](https://dev.pooltogether.com/protocol/reference/)
