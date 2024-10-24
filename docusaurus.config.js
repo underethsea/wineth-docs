@@ -85,7 +85,7 @@ const config = {
             title: 'Apps',
             items: [
               {
-                label: 'Primary',
+                label: 'winETH',
                 href: 'https://wineth.org',
               },
               {
@@ -108,7 +108,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/pooltogether',
+                href: 'https://twitter.com/pooltogether_',
               },
             ],
           },
@@ -116,8 +116,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog (soon TM)',
-                to: '/'
+                label: 'Mirror',
+                to: 'https://pooltogether.mirror.xyz'
                
               },
               {
