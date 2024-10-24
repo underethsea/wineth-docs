@@ -8,7 +8,7 @@ sidebar_position: 1
 
 # Welcome
 
-## Welcome to winETH 👋
+## Save, Win, Support Public Goods 🏆✨
 winETH is a charitable prize vault powered by PoolTogether & Aave on Optimism. 
 
 It's a Win-Win situation:
@@ -16,7 +16,7 @@ It's a Win-Win situation:
 - You're already winning by supporting public goods
 - You never lose your principal.
 
-For the first six months (until April 3rd, 2025), depositors earn additional bonus rewards. [Learn more](<insertlink>)
+For the first six months (until April 3rd, 2025), depositors earn additional bonus rewards. [Learn more](rewards.md)
 
 ## How does it work?
 USDC is deposited into an Aave market to generate yield from lending to borrowers. This yield is contributed to the PoolTogether prize pool, giving depositors a chance to win. The prize pool automatically distributes prizes every day.
