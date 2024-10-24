@@ -12,6 +12,7 @@ To deposit to [winETH](https://wineth.org/) you need [native USDC](https://optim
 <source src="/videos/wineth-deposit.mp4" type="video/mp4"/>
 Your browser does not support the video tag.
 </video>
+
 <details>
 <summary>How to deposit</summary>
 - Head to the winETH.org and connect your wallet
