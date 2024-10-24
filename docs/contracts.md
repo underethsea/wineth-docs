@@ -4,10 +4,8 @@ sidebar_position: 8
 
 
 # Contract Addresses
-
-winETH.org uses the PoolTogether V5 smart contracts. All contracts are audited and verified. You can view all audit reports [here](https://docs.pooltogether.com/security/audits).
-
-
+winETH.org uses the PoolTogether V5 smart contracts. The winETH prize vault was deployed from the original [PoolTogether PrizeVault factory](https://optimistic.etherscan.io/address/0xec9f59bd06465b105e719c0b0483a4ed6a656775). All contracts are audited and verified. You can view all audit reports [here](https://docs.pooltogether.com/security/audits).
+ 
 ## OPTIMISM MAINNET
 Contract | Address
 --- | ---
