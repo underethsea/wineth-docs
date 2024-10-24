@@ -6,7 +6,8 @@ sidebar_position: 6
 # Smart Contracts
 winETH.org uses the PoolTogether V5 smart contracts. The winETH prize vault was deployed from the original [PoolTogether PrizeVault factory](https://optimistic.etherscan.io/address/0xec9f59bd06465b105e719c0b0483a4ed6a656775). 
  
-## Contract Addresses (OPTIMISM MAINNET)
+## Contract Addresses 
+All smart contracts are deployed on Optimism Mainnet.
 Contract | Address
 --- | ---
 RngWitnet | [0x3d2Ef6C091f7CB69f06Ec3117F36A28BC596aa7B](https://optimistic.etherscan.io/address/0x3d2Ef6C091f7CB69f06Ec3117F36A28BC596aa7B)
