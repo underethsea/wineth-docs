@@ -6,7 +6,7 @@ sidebar_position: 6
 # Smart Contracts
 winETH.org uses the PoolTogether V5 smart contracts. The winETH prize vault was deployed from the original [PoolTogether PrizeVault factory](https://optimistic.etherscan.io/address/0xec9f59bd06465b105e719c0b0483a4ed6a656775). 
  
-## OPTIMISM MAINNET
+## Contract Addresses (OPTIMISM MAINNET)
 Contract | Address
 --- | ---
 RngWitnet | [0x3d2Ef6C091f7CB69f06Ec3117F36A28BC596aa7B](https://optimistic.etherscan.io/address/0x3d2Ef6C091f7CB69f06Ec3117F36A28BC596aa7B)
@@ -18,6 +18,12 @@ Claimer | [0x220C9398b0Ee07472bF8906e44574Cb9FE3B8D90](https://optimistic.ethers
 DrawManager | [0x7eED7444dE862c4F79c5820ff867FA3A82641857](https://optimistic.etherscan.io/address/0x7eED7444dE862c4F79c5820ff867FA3A82641857)
 
 Learn more about the PoolTogether smart contracts: [PoolTogether V5 Contract Reference](https://dev.pooltogether.com/protocol/reference/)
+
+# Randomness
+The prize strategy uses Witnet as a provably fair onchain way to get a random number. 
+
+* [Learn more about the Witnet RNG](https://docs.witnet.io/smart-contracts/witnet-randomness-oracle) 
+* [Learn more about the Draw Auction on PoolTogether](https://dev.pooltogether.com/protocol/design/draw-auction)
 
 ## Security
 All contracts are audited and verified. You can view all audit reports [here](https://docs.pooltogether.com/security/audits).
