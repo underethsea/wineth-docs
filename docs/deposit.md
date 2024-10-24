@@ -18,7 +18,7 @@ To reflect your winETH deposit, you will receive the USDCwinETH token. You can a
 
 | Ticker | Contract Address |
 | --- | --- |
-| USDCwinETH | 0x0b2c639c533813f4aa9d7837caf62653d097ff85 |
+| USDCwinETH | [0x0b2c639c533813f4aa9d7837caf62653d097ff85](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85) |
 
 ## Withdraw
 winETH is no loss, so you can withdraw your full principle anytime. Head to [winETH.org](https://winETH.org) and click the "Withdraw" button. 
