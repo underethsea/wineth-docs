@@ -16,19 +16,9 @@ Your browser does not support the video tag.
 
 To reflect your winETH deposit, you will receive the USDCwinETH token. You can add it to your wallet with the information below:
 
-const markdown = `
 | Ticker | Contract Address |
 | --- | --- |
 | USDCwinETH | 0x0b2c639c533813f4aa9d7837caf62653d097ff85 |
-`
-//...
-<MDXEditor
-  markdown={markdown}
-  plugins={[
-    tablePlugin(),
-    toolbarPlugin({toolbarContents: () => <InsertTable />})
-  ]
-  }
-/>
+
 ## Withdraw
 winETH is no loss, so you can withdraw your full principle anytime. Head to [winETH.org](https://winETH.org) and click the "Withdraw" button. 
